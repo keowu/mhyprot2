@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DesencriptarLogs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MemoryHacking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProcessOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProcessScann.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
