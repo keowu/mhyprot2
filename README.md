@@ -26,7 +26,7 @@
 
 ![Driver](https://github.com/keowu/mhyprot2/blob/main/Screenshots/drv1.PNG?raw=true)
 
-<h2 align="center">3. Atualizações futuras e duvidas</h2>
+<h2 align="center">3. Future updates and questions</h2>
 <p>As I have time I will implement the functions not yet completed, if you want to help contribute!</p>
 <p>The driver's Main has the wrong encode, ok, download and open it in your visual studio, it's a success.</p>
 <p>To the game creators, I like your game, but your attitudes towards privacy are quite wrong, better protect your driver and remove the memory read and write functions, 99% would forget about it if you want to delete my project, open an issue and ask and as soon as you see it I remove it without any problem, my intention was to understand how it worked and get knowledge with it.</p>
